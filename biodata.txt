@@ -1,0 +1,9 @@
+Perkenalkan nama saya Rafli Ayudiansyah, saya seorang fresh graduate dari jurusan informatika, saya sangat tertarik untuk mengikuti kelas ini karna setalah saya baca detail
+dari kelas ini saya rasa kelas ini sangat cocok untuk saya, berikut adalah biodata saya:
+Nama                                      : Rafli Ayudiansyah
+Tempat, Tangga lahir                      : Cianjur, 31 Mei 2000
+Nomor Whatsapp                            : 0877-2113-6233
+Email                                     : raflyayudiansyah31@gmail.com
+Pendidikan                                : Chien Hsin University jurusan Informatika - 2022
+                                            SMKN 1 Pacet jurusan TKJ - 2018
+Bahasa pemrograman yang pernah dipelajari : HTML, CSS, Javascript, Phyton, C++
